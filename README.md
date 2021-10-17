@@ -31,6 +31,6 @@ Este é um espaço onde dedico parte do meu tempo, imaginando e criando soluçõ
 <div> 
   <a href="https://www.linkedin.com/in/jonas-cavalcante-33658a154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/JonasCavalcanteDuarte/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JonasCavalcanteDuarte/JonasCavalcanteDuarte/blob/output/github-contribution-grid-snake.svg)
  
 </div>
