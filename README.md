@@ -1,6 +1,6 @@
 ## Olá, eu sou Jonas Cavalcante! 👋
 
-Sou desenvolvedor e analista de dados, apaixonado por tecnologia!
+Sou desenvolvedor e analista de dados, apaixonado por tecnologia!!
 
 Este é um espaço onde dedico parte do meu tempo, imaginando e criando soluções e projetos de tecnologia.
 
