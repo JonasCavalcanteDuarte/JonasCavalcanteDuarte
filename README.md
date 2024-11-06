@@ -4,7 +4,7 @@ Sou desenvolvedor e analista de dados, apaixonado por tecnologia!!
 
 Este é um espaço onde dedico parte do meu tempo, imaginando e criando soluções e projetos de tecnologia.
 
-🔭 Eu atualmente trabalho no Carrefour Brasil, como analista de dados, mas estou procurando por oprtunidades de trabalho como desenvolvedor.
+🔭 Eu atualmente trabalho no Carrefour Brasil, como analista de dados, mas estou procurando por oportunidades de trabalho como desenvolvedor.
 
 💬 Me pergunte sobre qualquer coisa aqui :) 
 
